@@ -12,6 +12,7 @@ class SpringBootWebCrudApplicationTests {
     void contextLoads() {
         System.out.println("hello");
         System.out.println("second");
+        System.out.println("thrid");
     }
 
 }
