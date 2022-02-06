@@ -14,6 +14,7 @@ class SpringBootWebCrudApplicationTests {
         System.out.println("second");
         System.out.println("thrid");
         System.out.println("hot-fix");
+        System.out.println("hot-fix test");
     }
 
 }
